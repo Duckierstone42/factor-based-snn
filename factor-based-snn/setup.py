@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="{{ cookiecutter.package_name }}",
+    name="{{ factor-based-snn }}",
     packages=find_packages(),
 )
